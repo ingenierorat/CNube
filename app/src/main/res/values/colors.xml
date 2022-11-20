@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33691E</color>
+    <color name="colorPrimaryDark">#558B2F</color>
+    <color name="colorAccent">#689F38</color>
+
+    <color name="navigationBottom">#FFFFFF</color>
+    <color name="colorHintDelEditText">#000000</color>
+    <color name="colorDelTextView">#000000</color>
+
+</resources>
